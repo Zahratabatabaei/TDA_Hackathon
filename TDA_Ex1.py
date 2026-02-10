@@ -1,3 +1,12 @@
+"""
+Created on Tue Feb 10, 2026
+
+@author: Zahra Tabatabaei.
+Email: Elec.tabatabaei@gmail.com
+# This script is for educational and personal use only.
+# Use of this code in research papers or academic publications without explicit permission is prohibited.
+"""
+
 import numpy as np
 import gudhi as gd
 import cv2
@@ -116,4 +125,5 @@ plt.legend()
 plt.grid(True)
 plt.tight_layout()
 plt.show()
+
 
